@@ -1,0 +1,11 @@
+/*工程師新增*/
+
+/*翻譯用遮罩*/
+#bodyblock {position:relative; z-index:9999;}
+#shader{position:fixed; top:0px; left:0px; display:block; width:100%; height:100%; background-color:#FFF;}
+/*驗證提示文字*/
+div.radio-style {margin-bottom:10px;}
+div.select-style{margin-bottom:20px;}
+
+label.error{position: relative; top:0px; color:#B74848 !important;}
+div.error{color:#B74848 !important;}
